@@ -40,6 +40,11 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the app in action.
 
+
+## Example Product Blueprint
+
+If you want to build a real-time AI robot comedian mobile app, see this French product/architecture plan: [docs/robot-humor-ai-mobile-plan.fr.md](docs/robot-humor-ai-mobile-plan.fr.md).
+
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
